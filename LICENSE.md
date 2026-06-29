@@ -1,4 +1,4 @@
-# 
+# Automático ChatSynth instalador. Descarga e instala con multiplataforma y configuración rápida — rápido, seguro y fácil de usar.
 
 
 
